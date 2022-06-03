@@ -44,7 +44,7 @@ To enable Permissions Management in your organization:
 - To view a video on how to enable Permissions Management in your Azure AD tenant, select [Enable Permissions Management in your Azure AD tenant](https://www.youtube.com/watch?v=-fkfeZyevoo).
 - To view a video on how to configure and onboard AWS accounts in Permissions Management, select [Configure and onboard AWS accounts](https://www.youtube.com/watch?v=R6K21wiWYmE).
 - To view a video on how to configure and onboard GCP accounts in Permissions Management, select [Configure and onboard GCP accounts](https://www.youtube.com/watch?app=desktop&v=W3epcOaec28).
-
+- To view a video on how to configure Azure accounts in Permissions Management, select [Configure and onboard Azure accounts](https://www.youtube.com/watch?v=tif3_1r8ewc).
 
 ## How to enable Permissions Management on your Azure AD tenant
 
